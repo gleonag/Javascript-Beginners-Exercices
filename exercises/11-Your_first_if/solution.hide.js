@@ -7,5 +7,5 @@ if (total <= 50) {
 } else if (total <= 100) {
     console.log("We'll be there in 5 minutes");
 } else {
-    console.log("We still have a bit of driving left to go");
+console.log("We still have a bit of driving left to go");
 }
