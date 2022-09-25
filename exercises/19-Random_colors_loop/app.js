@@ -14,11 +14,15 @@ function getColor(colorNumber=0)
 		default: return "black"; 
 				 break;
 	}
-}
-
-function getAllStudentColors(){
-	
+}	
 	//your loop here
+	function getAllStudentColors(){
+		for (var student=0; student<=10; student++){
+			if(
+
+			}
+		}
+		
 	var exampleColor = getColor(1);
 }
 
